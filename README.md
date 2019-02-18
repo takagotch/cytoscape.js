@@ -6,7 +6,7 @@ https://github.com/cytoscape/cytoscape.js
 var cy = cytoscape({ elements: myElements, container: myDiv });
 ```
 
-```json
+```
 cytoscape({
 
   container: document.getElementById('cy'),
